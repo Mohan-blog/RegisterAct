@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".ThirdAct"></activity>
-        <activity android:name=".SecondAct" />
+
+        <activity android:name=".loginScreen" >
+
+
+        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
